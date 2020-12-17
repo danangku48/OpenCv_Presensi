@@ -1,0 +1,5 @@
+Pada soal no 6 ini, saya membuat program untuk mendata kehadiran dengan face recognize.
+Program ini dapat dijalankan secara realtime.
+Dalam pengambilan data, saya menggunakan webcam, kemudian saya arahkan webcam ke foto yang ada secara realtime.
+Gagasan ini diharapkan dapat digunakan untuk mendata karyawan yang datang dan pulang secara otomatis menggantikan rfid ataupun presensi manual lainnya.
+Selain itu, program ini dapat digunakan untuk menghitung overtime karyawan secara otomatis.
